@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img alt="Proffy" src="assets/GoBarberWebDemo.gif" width="60%">
+  <img alt="Proffy" src="assets/DesktopFinal.gif" width="70%">
 </p>
